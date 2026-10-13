@@ -3,7 +3,7 @@
   "name": "nl.scamchecker/scamchecker",
   "title": "Scamchecker.nl",
   "description": "Check a suspicious email, SMS, WhatsApp message or link for scam signals (Netherlands, Belgium).",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "websiteUrl": "https://scamchecker.nl/",
   "repository": {
     "url": "https://github.com/smrht/scamchecker-mcp",
